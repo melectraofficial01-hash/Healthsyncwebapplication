@@ -214,7 +214,7 @@ export function LoginSignup({ onSuccess }: Props) {
         <div className="mt-6 text-center text-gray-600 bg-yellow-50 p-4 rounded-lg border border-yellow-200">
           <p className="text-yellow-800">
             ⚠️ <strong>Demo Only:</strong> This is a prototype. Do not use for real medical data.
-            Not HIPAA-compliant.
+            Site Under Maintenence!!! Copyright To Shivamsingh @Team RhytmBytes 
           </p>
         </div>
       </div>
